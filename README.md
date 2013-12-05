@@ -4,12 +4,12 @@ One day useful info maybe contained here
 
 ## Setup
 
-Install leiningen:
-https://github.com/technomancy/leiningen
+    Install leiningen:
+    https://github.com/technomancy/leiningen
 
-git clone git@github.com:chadheim/mandelbrot-clojure.git
+    git clone git@github.com:chadheim/mandelbrot-clojure.git
 
-cd mandelbrot-clojure
+    cd mandelbrot-clojure
 
-lein run
+    lein run
 
